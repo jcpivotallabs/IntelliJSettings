@@ -1,6 +1,6 @@
 <application>
   <component name="ProjectManager">
-    <defaultProject version="4">
+    <defaultProject>
       <component name="CompilerConfiguration">
         <resourceExtensions />
         <wildcardResourcePatterns>
@@ -236,12 +236,6 @@
           <option name="SHMEM_ADDRESS" value="javadebug" />
           <option name="HOST" value="localhost" />
           <option name="PORT" value="5005" />
-          <method />
-        </configuration>
-        <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-          <module name="" />
-          <envs />
           <method />
         </configuration>
         <configuration default="true" type="TestNG" factoryName="TestNG">

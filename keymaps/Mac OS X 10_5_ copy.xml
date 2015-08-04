@@ -1,25 +1,40 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="meta alt W" />
+    <keyboard-shortcut first-keystroke="meta alt w" />
   </action>
   <action id="CloseAllEditorsButActive">
-    <keyboard-shortcut first-keystroke="shift meta W" />
+    <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CloseAllUnmodifiedEditors">
-    <keyboard-shortcut first-keystroke="control meta alt W" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt w" />
   </action>
   <action id="Gradle.ExecuteTask">
-    <keyboard-shortcut first-keystroke="alt R" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="MoveEditorToOppositeTabGroup">
-    <keyboard-shortcut first-keystroke="shift control meta alt RIGHT" />
-    <keyboard-shortcut first-keystroke="shift control meta alt LEFT" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt right" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt left" />
   </action>
   <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="shift control meta alt DOWN" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt down" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="shift control meta alt UP" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt up" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
