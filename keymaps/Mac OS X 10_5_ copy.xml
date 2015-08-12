@@ -8,4 +8,10 @@
   <action id="Gradle.ExecuteTask">
     <keyboard-shortcut first-keystroke="alt R" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift control meta alt DOWN" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift control meta alt UP" />
+  </action>
 </keymap>
