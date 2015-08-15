@@ -69,18 +69,20 @@
                 <id />
               </State>
               <State>
-                <id>Faces Model</id>
+                <id>General</id>
               </State>
               <State>
                 <id>Spring</id>
               </State>
               <State>
-                <id>Spring Web ServicesSpring</id>
-              </State>
-              <State>
-                <id>WebSocket issues</id>
+                <id>XPath</id>
               </State>
             </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
           </profile-state>
         </entry>
       </component>
@@ -105,7 +107,7 @@
         <property name="MemberChooser.sorted" value="false" />
         <property name="MemberChooser.showClasses" value="true" />
         <property name="MemberChooser.copyJavadoc" value="false" />
-        <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.0" />
