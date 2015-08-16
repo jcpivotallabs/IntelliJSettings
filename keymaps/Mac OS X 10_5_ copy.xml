@@ -8,6 +8,10 @@
   <action id="Gradle.ExecuteTask">
     <keyboard-shortcut first-keystroke="alt R" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift control meta alt LEFT" />
+    <keyboard-shortcut first-keystroke="shift control meta alt RIGHT" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift control meta alt DOWN" />
   </action>
