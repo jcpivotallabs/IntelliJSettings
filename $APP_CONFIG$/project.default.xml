@@ -29,13 +29,17 @@
             <entry key="$USER_HOME$/Projects/bar" value="1439287451000" />
             <entry key="$USER_HOME$/Projects/baz" value="1438227714000" />
             <entry key="$USER_HOME$/Projects/demo" value="1437309202000" />
+            <entry key="$USER_HOME$/Projects/doit" value="1439770284000" />
             <entry key="$USER_HOME$/Projects/example-web" value="1437324941000" />
-            <entry key="$USER_HOME$/Projects/foo" value="1439055757000" />
+            <entry key="$USER_HOME$/Projects/foo" value="1439649458000" />
             <entry key="$USER_HOME$/Projects/foobar" value="1436704689000" />
             <entry key="$USER_HOME$/Projects/hello-world" value="7183101573000" />
             <entry key="$USER_HOME$/Projects/hypermedia-spike" value="1437337026000" />
+            <entry key="$USER_HOME$/Projects/jackson-spike" value="1439944475000" />
             <entry key="$USER_HOME$/Projects/jpa-spike" value="1437843172000" />
             <entry key="$USER_HOME$/Projects/jpa-test" value="1438434748000" />
+            <entry key="$USER_HOME$/Projects/mvc-spike" value="1439343064000" />
+            <entry key="$USER_HOME$/Projects/something" value="1439659335000" />
             <entry key="$USER_HOME$/Projects/spring-rest" value="1435982232000" />
             <entry key="$USER_HOME$/Projects/untitled" value="1437391911000" />
             <entry key="$USER_HOME$/Projects/untitled1" value="1437525560000" />
@@ -68,18 +72,20 @@
                 <id />
               </State>
               <State>
-                <id>Faces Model</id>
+                <id>General</id>
               </State>
               <State>
                 <id>Spring</id>
               </State>
               <State>
-                <id>Spring Web ServicesSpring</id>
-              </State>
-              <State>
-                <id>WebSocket issues</id>
+                <id>XPath</id>
               </State>
             </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
           </profile-state>
         </entry>
       </component>
@@ -104,7 +110,7 @@
         <property name="MemberChooser.sorted" value="false" />
         <property name="MemberChooser.showClasses" value="true" />
         <property name="MemberChooser.copyJavadoc" value="false" />
-        <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.0" />
@@ -130,15 +136,6 @@
           <option name="CLEAR_LOGCAT" value="false" />
           <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
           <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-          <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
-          <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-          <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
-          <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
-          <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
-          <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
-          <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
-          <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
-          <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
