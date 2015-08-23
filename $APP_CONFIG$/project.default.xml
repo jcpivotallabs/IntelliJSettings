@@ -72,7 +72,16 @@
                 <id />
               </State>
               <State>
+                <id>Android Lint</id>
+              </State>
+              <State>
                 <id>General</id>
+              </State>
+              <State>
+                <id>Maven</id>
+              </State>
+              <State>
+                <id>Plugin DevKit</id>
               </State>
               <State>
                 <id>Spring</id>
@@ -110,7 +119,7 @@
         <property name="MemberChooser.sorted" value="false" />
         <property name="MemberChooser.showClasses" value="true" />
         <property name="MemberChooser.copyJavadoc" value="false" />
-        <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+        <property name="settings.editor.selected.configurable" value="Errors" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.0" />
@@ -254,7 +263,7 @@
           </state>
           <state key="JdkListConfigurable.UI">
             <settings>
-              <last-edited>1.8</last-edited>
+              <last-edited>Android API 22 Platform</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
