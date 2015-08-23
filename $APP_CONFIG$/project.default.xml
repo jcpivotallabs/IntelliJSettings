@@ -116,6 +116,9 @@
         <property name="project.structure.proportion" value="0.0" />
         <property name="project.structure.side.proportion" value="0.2" />
         <property name="recentsLimit" value="5" />
+        <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+        <property name="android.project.structure.last.selected" value="SDK Location" />
+        <property name="android.project.structure.proportion" value="0.15" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
