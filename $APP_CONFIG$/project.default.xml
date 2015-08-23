@@ -25,6 +25,7 @@
           <map>
             <entry key="$USER_HOME$/Downloads/3021OS_Code/Chapter 4/auth-spike" value="1437857317000" />
             <entry key="$USER_HOME$/Downloads/3021OS_Code/Chapter 4/teammates-1" value="1416672460000" />
+            <entry key="$USER_HOME$/IdeaProjects/example" value="1440357838000" />
             <entry key="$USER_HOME$/Projects/app1" value="1437792671000" />
             <entry key="$USER_HOME$/Projects/bar" value="1439287451000" />
             <entry key="$USER_HOME$/Projects/baz" value="1438227714000" />
@@ -72,7 +73,16 @@
                 <id />
               </State>
               <State>
+                <id>Android Lint</id>
+              </State>
+              <State>
                 <id>General</id>
+              </State>
+              <State>
+                <id>Maven</id>
+              </State>
+              <State>
+                <id>Plugin DevKit</id>
               </State>
               <State>
                 <id>Spring</id>
@@ -110,7 +120,7 @@
         <property name="MemberChooser.sorted" value="false" />
         <property name="MemberChooser.showClasses" value="true" />
         <property name="MemberChooser.copyJavadoc" value="false" />
-        <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+        <property name="settings.editor.selected.configurable" value="Errors" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.0" />
@@ -139,15 +149,6 @@
           <option name="CLEAR_LOGCAT" value="false" />
           <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
           <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-          <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
-          <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-          <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
-          <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
-          <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
-          <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
-          <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
-          <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
-          <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
@@ -266,7 +267,7 @@
           </state>
           <state key="JdkListConfigurable.UI">
             <settings>
-              <last-edited>1.8</last-edited>
+              <last-edited>Android API 22 Platform</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
