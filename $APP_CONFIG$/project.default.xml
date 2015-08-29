@@ -109,7 +109,7 @@
       <component name="ProjectModuleManager">
         <modules />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="false" assert-keyword="false" jdk-15="false" project-jdk-name="1.7" project-jdk-type="JavaSDK" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="false" assert-keyword="false" jdk-15="false" />
       <component name="PropertiesComponent">
         <property name="GoToClass.includeLibraries" value="false" />
         <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -261,7 +261,7 @@
           </state>
           <state key="JdkListConfigurable.UI">
             <settings>
-              <last-edited>1.8</last-edited>
+              <last-edited>1.7</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
