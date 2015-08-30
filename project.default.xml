@@ -119,10 +119,13 @@
         <property name="MemberChooser.copyJavadoc" value="false" />
         <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.last.edited" value="Global Libraries" />
         <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />
         <property name="recentsLimit" value="5" />
+        <property name="Downloaded.Files.Path.Enabled" value="false" />
+        <property name="Repository.Attach.JavaDocs" value="false" />
+        <property name="Repository.Attach.Sources" value="false" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -249,7 +252,7 @@
         <states>
           <state key="GlobalLibrariesConfigurable.UI">
             <settings>
-              <last-edited>groovy-2.4.4</last-edited>
+              <last-edited>junit:junit:4.12</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
